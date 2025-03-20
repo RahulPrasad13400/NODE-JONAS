@@ -1,0 +1,3 @@
+1. import-dev-data.js => for importing data to database for the development purpose 
+2. tourModel.js => Modified the tour model 
+3. 
